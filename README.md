@@ -34,9 +34,9 @@ We follow the pipeline and framework from [ASV-subtools](https://github.com/Snow
 ```shell
 # train x-vector model with serialized attention
 # training stage starts from 3. 
-python subtools\recipe\serialized-experiments\runSerialized-tdnn-xvector.py --stage=3 --gpu-id=0,1,2,3
+python subtools\recipe\serialized-experiments\runSerialized-tdnn-xvector.py --stage=3 --gpu-id=0
 # train standard x-vector with statistics pooling/attentive pooling
-python subtools\recipe\serialized-experiments\run-xvector.py --stage=3 --gpu-id=0,1,2,3
+python subtools\recipe\serialized-experiments\run-xvector.py --stage=3 --gpu-id=0
 ```
 
 
