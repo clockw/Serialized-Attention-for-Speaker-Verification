@@ -14,7 +14,7 @@ We follow the pipeline and framework from [ASV-subtools](https://github.com/Snow
 
 - subtools\pytorch\libs\nnet\\**pooling.py**:  Serialized Multi-head Multi-layer Attention is added. 
 
-- subtools\pytorch\model\\**serialized-tdnn-xvector.py**:  The architecture of standard TDNN x-vector for serialized attention.
+- subtools\pytorch\model\\**serialized-tdnn-xvector.py**:  The architecture of TDNN x-vector for serialized attention.
 - Fold recipe\\**serialized-experiments**: Training and testing scripts.
 
 

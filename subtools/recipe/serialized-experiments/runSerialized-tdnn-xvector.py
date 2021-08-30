@@ -211,7 +211,7 @@ model_params = {
                       "share":True,
                       "affine_layers":6,
                       "hidden_size":64,
-                      "context":[[0],[0],[0],[0],[0],[0]],
+                      "context":[0],
                       "temperature":False, 
                       "fixed":False,
                       "stddev":True
