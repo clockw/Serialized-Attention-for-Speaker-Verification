@@ -17,10 +17,6 @@ This repo contains the implementation of the paper, **"Serialized Multi-Layer Mu
 
 
 
-### Overview
-
-![1630387530026](C:\Users\zhuhn\AppData\Roaming\Typora\typora-user-images\1630387530026.png)
-
 ### Implementation
 
 We follow the pipeline and framework from [ASV-subtools](https://github.com/Snowdar/asv-subtools). Please refer to [ASV-subtools](https://github.com/Snowdar/asv-subtools) for more details.
